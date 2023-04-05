@@ -1,0 +1,194 @@
+[
+  {
+    "identifier": {
+      "id": "angular.ng-template"
+    },
+    "displayName": "Angular Language Service"
+  },
+  {
+    "identifier": {
+      "id": "dbaeumer.vscode-eslint"
+    },
+    "displayName": "ESLint"
+  },
+  {
+    "identifier": {
+      "id": "dsznajder.es7-react-js-snippets"
+    },
+    "displayName": "ES7+ React/Redux/React-Native snippets"
+  },
+  {
+    "identifier": {
+      "id": "eamodio.gitlens"
+    },
+    "displayName": "GitLens — Git supercharged"
+  },
+  {
+    "identifier": {
+      "id": "editorconfig.editorconfig"
+    },
+    "displayName": "EditorConfig for VS Code"
+  },
+  {
+    "identifier": {
+      "id": "equinusocio.vsc-material-theme"
+    },
+    "displayName": "Material Theme"
+  },
+  {
+    "identifier": {
+      "id": "esbenp.prettier-vscode"
+    },
+    "displayName": "Prettier - Code formatter"
+  },
+  {
+    "identifier": {
+      "id": "formulahendry.code-runner"
+    },
+    "displayName": "Code Runner"
+  },
+  {
+    "identifier": {
+      "id": "github.copilot"
+    },
+    "displayName": "GitHub Copilot"
+  },
+  {
+    "identifier": {
+      "id": "gruntfuggly.todo-tree"
+    },
+    "displayName": "Todo Tree"
+  },
+  {
+    "identifier": {
+      "id": "jrebocho.vscode-random"
+    },
+    "displayName": "vscode-random"
+  },
+  {
+    "identifier": {
+      "id": "kamikillerto.vscode-colorize"
+    },
+    "displayName": "colorize"
+  },
+  {
+    "identifier": {
+      "id": "ms-azuretools.vscode-docker"
+    },
+    "displayName": "Docker"
+  },
+  {
+    "identifier": {
+      "id": "ms-ceintl.vscode-language-pack-pt-br"
+    },
+    "displayName": "Portuguese (Brazil) Language Pack for Visual Studio Code"
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode-remote.remote-containers"
+    },
+    "displayName": "Dev Containers"
+  },
+  {
+    "identifier": {
+      "id": "octref.vetur"
+    },
+    "displayName": "Vetur"
+  },
+  {
+    "identifier": {
+      "id": "pkief.material-icon-theme"
+    },
+    "displayName": "Material Icon Theme"
+  },
+  {
+    "identifier": {
+      "id": "qwtel.sqlite-viewer"
+    },
+    "displayName": "SQLite Viewer"
+  },
+  {
+    "identifier": {
+      "id": "redhat.java"
+    },
+    "displayName": "Language Support for Java(TM) by Red Hat"
+  },
+  {
+    "identifier": {
+      "id": "ritwickdey.liveserver"
+    },
+    "displayName": "Live Server"
+  },
+  {
+    "identifier": {
+      "id": "streetsidesoftware.code-spell-checker"
+    },
+    "displayName": "Code Spell Checker"
+  },
+  {
+    "identifier": {
+      "id": "streetsidesoftware.code-spell-checker-portuguese"
+    },
+    "displayName": "Portuguese - Code Spell Checker"
+  },
+  {
+    "identifier": {
+      "id": "tabnine.tabnine-vscode"
+    },
+    "displayName": "Tabnine AI"
+  },
+  {
+    "identifier": {
+      "id": "usernamehw.errorlens"
+    },
+    "displayName": "Error Lens"
+  },
+  {
+    "identifier": {
+      "id": "visualstudioexptteam.intellicode-api-usage-examples"
+    },
+    "displayName": "IntelliCode API Usage Examples"
+  },
+  {
+    "identifier": {
+      "id": "visualstudioexptteam.vscodeintellicode"
+    },
+    "displayName": "IntelliCode"
+  },
+  {
+    "identifier": {
+      "id": "vscjava.vscode-java-debug"
+    },
+    "displayName": "Debugger for Java"
+  },
+  {
+    "identifier": {
+      "id": "vscjava.vscode-java-dependency"
+    },
+    "displayName": "Project Manager for Java"
+  },
+  {
+    "identifier": {
+      "id": "vscjava.vscode-java-pack"
+    },
+    "displayName": "Extension Pack for Java"
+  },
+  {
+    "identifier": {
+      "id": "vscjava.vscode-java-test"
+    },
+    "displayName": "Test Runner for Java"
+  },
+  {
+    "identifier": {
+      "id": "vscjava.vscode-maven"
+    },
+    "displayName": "Maven for Java"
+  },
+  {
+    "identifier": {
+      "id": "zignd.html-css-class-completion"
+    },
+    "displayName": "IntelliSense for CSS class names in HTML"
+  }
+]
