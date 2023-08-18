@@ -3,6 +3,7 @@
 # About Me
 I am a backend developer who's studying systems analysis and development. I am currently focused on sharpening my Node skills and acquiring React knowledge to produce amazing web applications.
 
+<br/><br/>
 <div align="center">
   <a href="https://github.com/EndriOliveira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EndriOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
